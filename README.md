@@ -5,7 +5,7 @@ Python-script for wheel controller for Mindustry
 ### Requirements
 
 * Python 3.8
-* Libraries from requirements.json
+* Libraries from requirements.txt
 
 ### Run
 
